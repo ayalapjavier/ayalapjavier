@@ -1,5 +1,5 @@
 <h1 align="center"><b>Javier Ayala</b> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+ 
 </h1>
 
 <!-- Acá podés poner una foto tuya o un GIF que te identifique -->
