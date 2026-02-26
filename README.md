@@ -1,26 +1,28 @@
-<h1 align="center"> Hola, soy Javier Ayala</h1>
+<h1 align="center"><b>Hola , soy Javier Ayala </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
-  <!-- Acá podés poner una foto tuya o un GIF que te identifique -->
-  <img align="center" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
+  <img align="center" width=200px height=200px alt="Javier Ayala" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </div>
 
 <h4 align="center">
-  <b><a href="https://linkedin.com/in/javierayala1985">LinkedIn</a></b>
-  •
-  <b><a href="https://scholar.google.es/citations?user=epR-SX4AAAAJ&hl=es&oi=ao">Google Scholar</a></b>
-  •
-  <b><a href="https://javierayala7.webnode.es/">Portafolio</a></b>
-  •
-  <a href="mailto:javier.ayala.jm@gmail.com">Email</a>
-  •
+  <a href="https://linkedin.com/in/javierayala1985">LinkedIn</a> •
+  <a href="https://scholar.google.es/citations?user=epR-SX4AAAAJ&hl=es&oi=ao">Google Scholar</a> •
+  <a href="https://javierayala7.webnode.es/">Portafolio</a> •
+  <a href="mailto:javier.ayala.jm@gmail.com">Email</a> •
   <a href="https://github.com/ayalapjavier?tab=repositories">Repos</a>
 </h4>
 
-##  Sobre mí
+---
 
-Arquitecto y urbanista ecuatoriano con formación en Quito y San Petersburgo. Me gusta combinar la enseñanza académica, la experimentación tecnológica aplicada al diseño arquitectónico, el análisis geopolítico, entre otrsa cosas.
+## Sobre mí
+
+<h1 align="center">¡Chulla vida! </h1>
+<h2 align="center"> Un arquifff explorando el mundo desde la perspectiva de los programadores </h2>
+
+
+Un quiteño que terminó en San Petersburgo, mezclando arquitectura, urbanismo y programación.  
+Me gusta entender cómo funcionan las ciudades, enseñar lo que aprendo y experimentar con algoritmos para darle fundamento a la forma.  
+No me caso con ninguna herramienta (excepto el grasshopper): las uso para preguntar y saber que pasa.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Universidad%20Central%20del%20Ecuador-0F2B5B?style=for-the-badge">
@@ -29,14 +31,16 @@ Arquitecto y urbanista ecuatoriano con formación en Quito y San Petersburgo. Me
 
 ---
 
-##  Formación
+## Formación
 
-- 🏛️ **Arquitecto** – Universidad Central del Ecuador (2014)
-- 🌍 **Máster en Urbanística** – Universidad Estatal de Arquitectura e Ingeniería Civil de San Petersburgo, Rusia (2019)
+| Título | Institución | Año |
+|--------|-------------|-----|
+| 🏛️ Arquitecto | Universidad Central del Ecuador | 2014 |
+| 🌍 Máster en Urbanística | Universidad Estatal de Arquitectura e Ingeniería Civil de San Petersburgo (Rusia) | 2019 |
 
 ---
 
-##  Experiencia profesional (resumen)
+## Experiencia profesional (un resumen nomás)
 
 | Institución | Cargo | Periodo |
 |-------------|-------|---------|
@@ -47,17 +51,15 @@ Arquitecto y urbanista ecuatoriano con formación en Quito y San Petersburgo. Me
 
 ---
 
-##  Lo que ando haciendo
+## Lo que estoy haciendo ahora
 
-| Docencia | Experimentación | Urbanismo |
-|----------|-----------------|-----------|
-| 🏫 Urbanismo 1 y 4 | 🐍 Python / JAX | 🗺️ Planes urbanísticos |
-| 🏗️ Tecnología de la construcción | 📐 Grasshopper | 🚏 Nodos de transporte |
-| 📐 Taller integral arquitectónico | 📊 Algoritmos | 🏙️ Ordenamiento territorial |
+| 🏛️ Docencia | 🔍 Investigación | 🧪 Experimentación | 💻 Tecnología | 🌍 Geopolítica |
+|-------------|------------------|--------------------|---------------|----------------|
+| Urbanismo<br>Arquitectura | Movilidad urbana<br>Teoría arquitectónica<br>Historia crítica | Diseño paramétrico<br>Algoritmos<br>Lógica formal | Python / JAX<br>Grasshopper<br>Rhino | Diálogo Este-Oeste<br>Influencia rusa<br>Pensamiento latinoamericano |
 
 ---
 
-##  Herramientas que manejo
+## Herramientas que manejo
 
 <div align="center">
   <img src="https://img.shields.io/badge/Rhino-801010?style=for-the-badge&logo=rhinoceros&logoColor=white">
@@ -70,50 +72,38 @@ Arquitecto y urbanista ecuatoriano con formación en Quito y San Petersburgo. Me
 
 ---
 
-##  Publicaciones y ponencias
+## Publicaciones y ponencias (todas en ruso)
 
 | Año | Título | Evento / Lugar |
 |-----|--------|----------------|
-| 2020 | *La Influencia de Vjutemás en Latinoamérica* | Instituto de Arquitectura de Moscú (Rusia) |
-| 2019 | *Trama Urbana en Quito, Ecuador* | Universidad Estatal de Ingeniería Civil de Moscú (Rusia) |
-| 2019 | *Solución vial para el norte de Quito* | Conferencia de Transporte, San Petersburgo (Rusia) |
-
->  *Todas las ponencias fueron presentadas en idioma ruso*
+| 2020 | *La Influencia de Vjutemás en Latinoamérica* | Instituto de Arquitectura de Moscú |
+| 2019 | *Trama Urbana en Quito, Ecuador* | Universidad Estatal de Ingeniería Civil de Moscú |
+| 2019 | *Solución vial para el norte de Quito* | Conferencia de Transporte, San Petersburgo |
 
 ---
 
-## 🗣️ Idiomas
+## Idiomas
 
 - 🇪🇨 Español: nativo
-- 🇷🇺 Ruso: B1 (intermedio)
-- 🇺🇸 Inglés: A2 (básico)
+- 🇷🇺 Ruso: B1 (intermedio y practicando)
+- 🇺🇸 Inglés: A2 (el de turista)
 
 ---
 
-## 🌐 Encontrame también acá
+## Encuéntrame también acá:
 
-<a href="https://linkedin.com/in/javierayala1985">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://scholar.google.es/citations?user=epR-SX4AAAAJ&hl=es&oi=ao">
-  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white">
-</a>
-<a href="https://javierayala7.webnode.es/">
-  <img src="https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=web&logoColor=white">
-</a>
-<a href="mailto:javier.ayala.jm@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<div align="center">
+  <a href="https://linkedin.com/in/javierayala1985"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://scholar.google.es/citations?user=epR-SX4AAAAJ&hl=es&oi=ao"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"></a>
+  <a href="https://javierayala7.webnode.es/"><img src="https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=web&logoColor=white"></a>
+  <a href="mailto:javier.ayala.jm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
 
 ---
 
- **Explorá mis repositorios** para ver experimentos paramétricos, ejercicios de programación aplicada a la arquitectura y materiales de docencia.
-
-🇪🇨 Quito, Ecuador · 🇷🇺 San Petersburgo, Rusia  
-Arquitectura + Tecnología + Ciudad
-
----
-
-
-
----
+<div align="center">
+  <strong>Explora mis repositorios</strong> — ESPACIO EN CONSTRUCCIÓN para experimentos paramétricos de rhino y grasshopper, ejercicios de programación aplicada a la arquitectura, documentos, información.  
+  <br><br>
+  🇪🇨 Quito, Ecuador · 🇷🇺 San Petersburgo, Rusia  
+  <em>Arquitectura + Tecnología + Ciudad</em>
+</div>
