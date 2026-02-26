@@ -104,6 +104,6 @@ No me caso con ninguna herramienta (excepto el grasshopper): las uso para pregun
 <div align="center">
   <strong>Explora mis repositorios</strong> — ESPACIO EN CONSTRUCCIÓN para experimentos paramétricos de rhino y grasshopper, ejercicios de programación aplicada a la arquitectura, documentos, información.  
   <br><br>
-  🇪🇨 Quito, Ecuador · 🇷🇺 San Petersburgo, Rusia  
+  🇪🇨 Quito, Ecuador · 🇷🇺 San Petersburgo, Rusia |  
   <em>Arquitectura + Tecnología + Ciudad</em>
 </div>
