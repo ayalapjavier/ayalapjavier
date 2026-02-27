@@ -21,8 +21,8 @@
 
 
 Un quiteño que terminó en San Petersburgo, mezclando arquitectura, urbanismo y programación.  
-Me gusta entender cómo funcionan las ciudades, enseñar lo que aprendo y experimentar con algoritmos para darle fundamento a la forma.  
-No me caso con ninguna herramienta (excepto el grasshopper): las uso para preguntar y saber que pasa.
+Me gusta entender cómo funcionan las ciudades, enseñar lo que aprendo, compartir información de forma gratuita y experimentar con algoritmos para darle fundamento a la forma.  
+No me caso con ninguna herramienta (quizá solamente el rhinoceros y el grasshopper), además que el contenido pueden ser textos, pdf, códigos, o las definiciones de grasshopper, o lo que haya.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Universidad%20Central%20del%20Ecuador-0F2B5B?style=for-the-badge">
