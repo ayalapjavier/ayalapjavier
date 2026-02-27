@@ -17,17 +17,14 @@
 ## Sobre mí
 
 <h1 align="center">¡Chulla vida! </h1>
-<h2 align="center"> Un arquifff explorando el mundo desde la perspectiva de los programadores </h2>
+<h3 align="center"><em>Un arquifff explorando el mundo desde la perspectiva de los programadores</em></h3>
 
 
 Un quiteño que terminó en San Petersburgo, mezclando arquitectura, urbanismo y programación.  
-Me gusta entender cómo funcionan las ciudades, enseñar lo que aprendo, compartir información de forma gratuita y experimentar con algoritmos para darle fundamento a la forma.  
-No me caso con ninguna herramienta (quizá solamente el rhinoceros y el grasshopper), además que el contenido pueden ser textos, pdf, códigos, o las definiciones de grasshopper, o lo que haya.
+Me gusta entender cómo funcionan las formas, las ciudades y las cosas, enseñar lo que aprendo, aprender de los que saben, intercambio de información y experimentar con algoritmos para darle fundamento a la forma y la función.  
+No me caso con ninguna herramienta (quizá solamente el rhinoceros y el grasshopper), además aquí el contenido van desde textos, pdf, códigos, o las definiciones de grasshopper, o lo que haya.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Universidad%20Central%20del%20Ecuador-0F2B5B?style=for-the-badge">
-  <img src="https://img.shields.io/badge/SPbGASU%20(Rusia)-D52B1E?style=for-the-badge">
-</div>
+
 
 ---
 
@@ -37,6 +34,16 @@ No me caso con ninguna herramienta (quizá solamente el rhinoceros y el grasshop
 |--------|-------------|-----|
 | 🏛️ Arquitecto | Universidad Central del Ecuador | 2014 |
 | 🌍 Máster en Urbanística | Universidad Estatal de Arquitectura e Ingeniería Civil de San Petersburgo (Rusia) | 2019 |
+
+<div align="center">
+  <a href="https://www.uce.edu.ec/" target="_blank">
+    <img src="https://img.shields.io/badge/Universidad%20Central%20del%20Ecuador-0F2B5B?style=for-the-badge">
+  </a>
+  <a href="https://www.spbgasu.ru/" target="_blank">
+    <img src="https://img.shields.io/badge/SPbGASU%20(Rusia)-D52B1E?style=for-the-badge">
+  </a>
+</div>
+
 
 ---
 
@@ -59,15 +66,59 @@ No me caso con ninguna herramienta (quizá solamente el rhinoceros y el grasshop
 
 ---
 
-## Herramientas que manejo
+## 🧰 Herramientas que manejo
+#### *Programas que uso y que sigo aprendiendo cada vez más, unas más que otras:*
 
+
+**🏛️ Modelado paramétrico y CAD**
 <div align="center">
   <img src="https://img.shields.io/badge/Rhino-801010?style=for-the-badge&logo=rhinoceros&logoColor=white">
   <img src="https://img.shields.io/badge/Grasshopper-78B83E?style=for-the-badge&logo=grasshopper&logoColor=white">
+  <img src="https://img.shields.io/badge/Autodesk%20AutoCAD-DD1100?style=for-the-badge&logo=autodesk&logoColor=white">
+  <img src="https://img.shields.io/badge/Autodesk%20Revit-186A9E?style=for-the-badge&logo=autodesk&logoColor=white">
+  <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white">
+</div>
+
+**🎨 Edición y visualización**
+<div align="center">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
+  <img src="https://img.shields.io/badge/Lumion-00BFFF?style=for-the-badge&logo=lumion&logoColor=white">
+  <img src="https://img.shields.io/badge/D5%20Render-0A0A0A?style=for-the-badge&logo=d5render&logoColor=white">
+</div>
+
+**💻 Programación y control de versiones**
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JAX-FF6F00?style=for-the-badge&logo=jax&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/AutoCAD-DD1100?style=for-the-badge&logo=autodesk&logoColor=white">
+</div>
+
+**🗺️ SIG y cartografía**
+<div align="center">
+  <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Earth-4285F4?style=for-the-badge&logo=google-earth&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white">
+</div>
+
+**⚙️ Hardware / Estación de trabajo**
+<div align="center">
+  <img src="https://img.shields.io/badge/Alienware-0C0C0C?style=for-the-badge&logo=alienware&logoColor=white">
+  <img src="https://img.shields.io/badge/Texas%20Instruments-CC0000?style=for-the-badge&logo=texas-instruments&logoColor=white">
+</div>
+
+---
+
+## 🤖 Herramienta de soporte
+
+<div align="center">
+  <img src="https://img.shields.io/badge/DeepSeek-4A6FA5?style=for-the-badge&logo=deepseek&logoColor=white">
+</div>
+
+<div align="center">
+  <em>Este perfil y los experimentos que ves han sido desarrollados con el apoyo de <strong>DeepSeek</strong> (mi alias <strong>LOC</strong>), el asistente IA que me ayuda a traducir ideas arquitectónicas al lenguaje de los programadores. ¡Créditos y chulla vida para los chats compartidos!</em>
 </div>
 
 ---
@@ -102,7 +153,7 @@ No me caso con ninguna herramienta (quizá solamente el rhinoceros y el grasshop
 ---
 
 <div align="center">
-  <strong>Explora mis repositorios</strong> — ESPACIO EN CONSTRUCCIÓN para experimentos paramétricos de rhino y grasshopper, ejercicios de programación aplicada a la arquitectura, documentos, información.  
+  <strong>Explora mis repositorios</strong> — ESPACIO EN CONSTRUCCIÓN para experimentos paramétricos de rhino y grasshopper, ejercicios de programación aplicada a la arquitectura, documentos, información y todo lo que pueda servir.  
   <br><br>
   🇪🇨 Quito, Ecuador · 🇷🇺 San Petersburgo, Rusia |  
   <em>Arquitectura + Tecnología + Ciudad</em>
