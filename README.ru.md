@@ -4,7 +4,7 @@
   <a href="README.ru.md">🇷🇺 Русский</a>
 </h4>
 
-<h1 align="center"><b>Привет, я Хавьер Аяла </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Привет, я Хавьер Айяла </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
   <img align="center" width=200px height=200px alt="Javier Ayala" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
