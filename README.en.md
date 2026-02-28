@@ -36,7 +36,7 @@ I am not married to any tool (maybe only Rhino and Grasshopper). Here you'll fin
 
 | Degree | Institution | Year |
 |--------|-------------|------|
-| 🏛️ Architect | Universidad Central del Ecuador | 2014 |
+| 🏛️ Architect | Central University of Ecuador | 2014 |
 | 🌍 Master in Urban Planning | Saint Petersburg State University of Architecture and Civil Engineering (Russia) | 2019 |
 | | **Master's thesis:** *Transport Nodes for the City of Quito (Capital of Ecuador)* | |
 
