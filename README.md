@@ -1,3 +1,9 @@
+<h4 align="center">
+  <a href="README.md">🇪🇸 Español</a> •
+  <a href="README.en.md">🇬🇧 English</a> •
+  <a href="README.ru.md">🇷🇺 Русский</a>
+</h4>
+
 <h1 align="center"><b>Hola, soy Javier Ayala </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
@@ -19,12 +25,10 @@
 <h1 align="center">¡Chulla vida! </h1>
 <h3 align="center"><em>Un arquifff explorando el mundo desde la perspectiva de los programadores</em></h3>
 
-
 Un quiteño que terminó en San Petersburgo, mezclando arquitectura, urbanismo y programación.  
-Me gusta entender cómo funcionan las formas, las ciudades y las cosas, enseñar lo que aprendo, aprender de los que saben, intercambio de información y experimentar con algoritmos para darle fundamento a la forma y la función.  
-No me caso con ninguna herramienta (quizá solamente el rhinoceros y el grasshopper), además aquí el contenido van desde textos, pdf, códigos, o las definiciones de grasshopper, o lo que haya.
-
-
+Me gusta entender cómo funcionan las formas, las ciudades y las cosas, enseñar lo que aprendo, aprender de los que saben, intercambiar información y experimentar con algoritmos para darle fundamento a la forma y la función.  
+Apasionado por la herencia cultural rusa y el análisis geopolítico, siempre buscando conectar el pensamiento latinoamericano con las tradiciones del Este.  
+No me caso con ninguna herramienta (quizá solamente el Rhinoceros y el Grasshopper). Aquí encontrarás desde textos, PDFs, códigos, definiciones de Grasshopper, hasta lo que se me ocurra.
 
 ---
 
@@ -44,17 +48,16 @@ No me caso con ninguna herramienta (quizá solamente el rhinoceros y el grasshop
   </a>
 </div>
 
-
 ---
 
 ## Experiencia profesional (un resumen nomás)
 
-| Institución | Cargo | Periodo |
-|-------------|-------|---------|
-| 🏛️ EPMSA (Aeropuerto de Quito) | Director de Infraestructura / Especialista en Obra Civil | 2023–2024 |
-| 🏫 Universidad Estatal Amazónica Ikiam | Docente de Arquitectura Sostenible | 2022–2023 |
-| 🗺️ GAD Municipal del Cantón Mejía | Arquitecto urbanista / Especialista en Planificación | 2021–2022 |
-| 📐 Universidad Central del Ecuador | Docente / Tutor de tesis | 2020–2021 |
+| Institución | Cargo | Periodo | Logros destacados |
+|-------------|-------|---------|-------------------|
+| 🏛️ EPMSA (Aeropuerto de Quito) | Director de Infraestructura / Especialista en Obra Civil | 2023–2024 | • Aprobación del proyecto de ampliación del aeropuerto<br>• Desarrollo de documentos para estudios de factibilidad de la ZEDE (205 ha)<br>• Modelado 3D, renders y recorrido virtual del proyecto ZEDE<br>• Aplicación de normas OACI en construcción aeroportuaria |
+| 🏫 Universidad Estatal Amazónica Ikiam | Docente de Arquitectura Sostenible | 2022–2023 | • Enseñanza en pregrado de diversas disciplinas de arquitectura sostenible |
+| 🗺️ GAD Municipal del Cantón Mejía | Arquitecto urbanista / Especialista en Planificación | 2021–2022 | • Desarrollo de planes urbanísticos complementarios y proyectos arquitectónicos |
+| 📐 Universidad Central del Ecuador | Docente / Tutor de tesis | 2020–2021 | • Profesor de Diseño Urbano y Entornos Patrimoniales en programa de maestría<br>• Supervisor y revisor de tesis de maestría |
 
 ---
 
@@ -68,7 +71,6 @@ No me caso con ninguna herramienta (quizá solamente el rhinoceros y el grasshop
 
 ## 🧰 Herramientas que manejo
 #### *Programas que uso y que sigo aprendiendo cada vez más, unas más que otras:*
-
 
 **🏛️ Modelado paramétrico y CAD**
 <div align="center">
@@ -136,8 +138,8 @@ No me caso con ninguna herramienta (quizá solamente el rhinoceros y el grasshop
 ## Idiomas
 
 - 🇪🇨 Español: nativo
-- 🇷🇺 Ruso: B1 (intermedio y practicando)
-- 🇺🇸 Inglés: A2 (el de turista)
+- 🇷🇺 Ruso: B1 (intermedio, practicando a diario)
+- 🇺🇸 Inglés: A2 (básico, pero me defiendo con documentación técnica)
 
 ---
 
@@ -153,7 +155,7 @@ No me caso con ninguna herramienta (quizá solamente el rhinoceros y el grasshop
 ---
 
 <div align="center">
-  <strong>Explora mis repositorios</strong> — ESPACIO EN CONSTRUCCIÓN para experimentos paramétricos de rhino y grasshopper, ejercicios de programación aplicada a la arquitectura, documentos, información y todo lo que pueda servir.  
+  <strong>Explora mis repositorios</strong> — ESPACIO EN CONSTRUCCIÓN para experimentos paramétricos de Rhino y Grasshopper, ejercicios de programación aplicada a la arquitectura, documentos, información y todo lo que pueda servir.  
   <br><br>
   🇪🇨 Quito, Ecuador · 🇷🇺 San Petersburgo, Rusia |  
   <em>Arquitectura + Tecnología + Ciudad</em>
